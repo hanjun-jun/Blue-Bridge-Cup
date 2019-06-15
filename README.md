@@ -6,11 +6,11 @@
 
 试题 |完成情况
 :-:|:-:
-[入门训练](http://blog.csdn.net/guodongxiaren)|4/4
+<a href="#1">入门训练</a>|4/4
 [基础练习](http://blog.csdn.net/guodongxiaren)|1/30
 
 ## 试题集
-### 入门训练  
+### <a name="1">入门训练</a>  
 编号 |名称|C++|JAVA
 :-:|:-:|:-:|:-:
 BEGIN-1|[A+B问题](http://lx.lanqiao.cn/problem.page?gpid=T1)|[查看代码](https://github.com/PretendHanjun/Blue-Bridge-Cup/blob/master/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83/C%2B%2B/A%2BB%E9%97%AE%E9%A2%98.cpp)|查看代码
