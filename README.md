@@ -1,16 +1,16 @@
-#Blue-Bridge-Cup
+# Blue-Bridge-Cup
 刷一刷蓝桥杯的题，这个仓库我会一直维护下去，努力成为一个优秀的程序员
  * [蓝桥杯练习系统](http://lx.lanqiao.cn)
 
-##目录
+## 目录
 
 试题 |完成情况
 :-:|:-:
 [入门训练](http://blog.csdn.net/guodongxiaren)|4/4
 [基础练习](http://blog.csdn.net/guodongxiaren)|1/30
 
-##试题集
-###入门训练
+## 试题集
+### 入门训练  
 编号 |名称|C++|JAVA
 :-:|:-:|:-:|:-:
 BEGIN-1|[A+B问题](http://lx.lanqiao.cn/problem.page?gpid=T1)|[查看代码](https://github.com/PretendHanjun/Blue-Bridge-Cup/blob/master/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83/C%2B%2B/A%2BB%E9%97%AE%E9%A2%98.cpp)|查看代码
