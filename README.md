@@ -7,14 +7,10 @@
 试题 |完成情况
 :-:|:-:
 <a href="#1">入门训练</a>|4/4
-<a href="#2">基础练习</a>|1/30
+<a href="#2">基础练习</a>|6/30
 
 ## 试题集
-<<<<<<< HEAD
 ### <a name="1">入门训练</a>
-=======
-### <a name="1">入门训练</a>  
->>>>>>> b86e526f058700073acde4634ecbbbf1cf5a54df
 编号 |名称|C++|JAVA
 :-:|:-:|:-:|:-:
 BEGIN-1|[A+B问题](http://lx.lanqiao.cn/problem.page?gpid=T1)|[查看代码](https://github.com/PretendHanjun/Blue-Bridge-Cup/blob/master/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83/C%2B%2B/A%2BB%E9%97%AE%E9%A2%98.cpp)|查看代码
@@ -23,13 +19,8 @@ BEGIN-3|[圆的面积](http://lx.lanqiao.cn/problem.page?gpid=T3)|[查看代码]
 BEGIN-4|[Fibonacci数列](http://lx.lanqiao.cn/problem.page?gpid=T4)|[查看代码](https://github.com/PretendHanjun/Blue-Bridge-Cup/blob/master/%E5%85%A5%E9%97%A8%E8%AE%AD%E7%BB%83/C%2B%2B/Fibonacci%E6%95%B0%E5%88%97.cpp)|查看代码
 
 ### <a name="2">基础练习</a>
-<<<<<<< HEAD
 |    编号   |                    名称                  |C++|JAVA
 | :------: | :--------------------------------------:|:-:|:-:
-=======
-|    编号   |                    名称                  |
-| :------: | :--------------------------------------: |
->>>>>>> b86e526f058700073acde4634ecbbbf1cf5a54df
 | BASIC-1  | [闰年判断](http://lx.lanqiao.cn/problem.page?gpid=T5) |
 | BASIC-2  | [01字串](http://lx.lanqiao.cn/problem.page?gpid=T6) |
 | BASIC-3  | [字母图形](http://lx.lanqiao.cn/problem.page?gpid=T7) |
