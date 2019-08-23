@@ -1,3 +1,4 @@
+//杨辉三角
 #include<iostream>
 using namespace std;
 int main()
